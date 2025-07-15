@@ -13,7 +13,7 @@ public class ArrayDemo {
 	anArray[6] = 700; //Inicializa el septimo elemento
 	anArray[7] = 800; //Inicializa el octavo elemento
 	anArray[8] = 900; //Inicializa el noveno elemento
-	anArray[9] = 1000; //Inicializa el decimo elemento
+	anArray[9] = 1000; //Inicializa el decimo elementooooCommit
 	
 	System.out.println("Elemento en el índice 0: "+ anArray[0]);
 	System.out.println("Elemento en el índice 1: "+ anArray[1]);
